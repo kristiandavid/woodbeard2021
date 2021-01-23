@@ -1,0 +1,11 @@
+# gatsby files
+.cache/
+public
+
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*

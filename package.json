@@ -1,0 +1,24 @@
+{
+  "name": "woodbeard2021",
+  "version": "1.0.0",
+  "description": "iamwoodbeard.com 2021 site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristiandavid/woodbeard2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristiandavid/woodbeard2021/issues"
+  },
+  "homepage": "https://github.com/kristiandavid/woodbeard2021#readme",
+  "dependencies": {
+    "gatsby": "^2.31.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
